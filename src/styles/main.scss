@@ -1,0 +1,18 @@
+@use '_event';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+    list-style: none;
+    color: #fff;
+}
+
+body {
+    background-image: linear-gradient(#000, rgb(46, 2, 2));
+}
+
+.container {
+    display: block;
+}
